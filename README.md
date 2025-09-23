@@ -1,5 +1,3 @@
-Based on the flappy-bird.html file you uploaded, here is a README file you can use for your project.
-
 🎮 Flappy Bird
 A simple and classic Flappy Bird game recreated using vanilla HTML, CSS, and JavaScript. The project demonstrates fundamental web development concepts, including canvas drawing, event handling, and game logic.
 
