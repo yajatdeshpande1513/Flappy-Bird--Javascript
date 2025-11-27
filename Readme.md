@@ -26,3 +26,4 @@ Updating game state, positions, and physics.
 Detecting collisions.
 
 Handling user input (mouse clicks, spacebar, and touch events).
+
